@@ -4,3 +4,6 @@ Image classification model with **AWS SageMaker** for Scones Unlimited, a scone-
 
 ## Dataset
 [CIFAR 100](https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz)
+
+## Step function
+![step function](https://github.com/Asma-Nasr/Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker/blob/main/stepfunctions_graph.png)
